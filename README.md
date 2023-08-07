@@ -24,6 +24,9 @@ Used to allow developers to post and comment on eachother's posts.
 
 - [Project Repo](https://github.com/fibikunle/challenge14-tech-blog)
 
+## Heroku 
+- [App Link] (https://challenge14-tech-blog-c9ae4888ab1b.herokuapp.com/)
+
 ## Github Info
 
 - [GitHub Profile](https://github.com/fibikunle)
